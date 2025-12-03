@@ -1,4 +1,4 @@
-package com.example.tap_battle
+package com.example.dueloapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.tap_battle.ui.theme.TapBattleTheme
+import com.example.dueloapp.ui.theme.TapBattleTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

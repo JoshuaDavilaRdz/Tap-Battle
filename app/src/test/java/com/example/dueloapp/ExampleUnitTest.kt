@@ -1,4 +1,4 @@
-package com.example.tap_battle
+package com.example.dueloapp
 
 import org.junit.Test
 

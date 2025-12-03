@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tap_battle"
+    namespace = "com.example.dueloapp"
     compileSdk = 36
 
     defaultConfig {

@@ -1,4 +1,4 @@
-package com.example.tap_battle
+package com.example.dueloapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
